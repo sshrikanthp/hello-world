@@ -3,6 +3,10 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
+    <h1>New project for  DevOps Learning</h1>
+    <p>Please have lot of time </p>
+    <hr>
+
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
@@ -31,7 +35,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy time wasting  </h1>
 
   
 </form>
